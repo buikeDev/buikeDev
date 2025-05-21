@@ -12,8 +12,8 @@
 
 ## 🔥 Currently Igniting
 
-- 🚀 Building **JobMatch AI** - An intelligent job-search platform powered by AI
-- ✍️ Developing **DevBlog** - A technical blogging platform for developers
+- 🚀 Building **Talentrah AI** - An intelligent job-search platform powered by AI
+- ✍️ Developing **NemeBlog** - A technical blogging platform for developers
 - 🤖 Experimenting with AI wrappers and innovative web applications
 
 ## 🛠️ Technical Arsenal
