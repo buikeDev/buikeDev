@@ -1,11 +1,10 @@
 ## Hi there I'm Chukwubuike Ago👋
 
-<!--
+
 # Hello World! 👋 I'm Chukwubuikem Ago
 
-[![Twitter Follow](https://img.shields.io/badge/Follow-%40YourHandle-1DA1F2?style=flat&logo=twitter)](https://twitter.com/YourHandle)
-[![LinkedIn](https://img.shields.io/badge/Connect-%20Chukwubuikem%20Ago-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Visits](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/Connect-%20Chukwubuikem%20Ago-0077B5?style=flat&logo=linkedin)](www.linkedin.com/in/ago-chukwubuikem-aa84a1305)
+[![Visits](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/buikeDev)
 
 **`Fullstack Developer | AI Enthusiast | Problem Solver`**
 
@@ -44,9 +43,9 @@
 > "Build solutions that don't just work, but _understand_ users."
 
 ## 📊 GitHub Stats
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=buikeDev&show_icons=true&theme=radical)](https://github.com/buikeDev)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=buikeDev&show_icons=true&theme=radical)](https://github.com/buikeDev)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=buikeDev&layout=compact&theme=radical)](https://github.com/buikeDev)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=buikeDev&layout=compact&theme=radical)](https://github.com/buikeDev)
 
 ## 📫 Let's Collaborate!
 I'm always open to:
